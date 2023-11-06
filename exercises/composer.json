@@ -1,0 +1,18 @@
+{
+    "name": "dtellez/exercism",
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dtellez\\Exercism\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dts",
+            "email": "dtellezsolano.95@gmail.com"
+        }
+    ],
+    "require": {}
+}
